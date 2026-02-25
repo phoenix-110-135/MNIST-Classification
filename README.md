@@ -117,7 +117,6 @@ Predictions are also visualized alongside real labels for comparison 🔍
 
 ```bash
 pip install tensorflow numpy matplotlib pandas
-python main.py
 ```
 
 ---
